@@ -2,14 +2,14 @@
 Machine learning project predicting mental health treatment in tech employees
 # Mental Health in Tech - Machine Learning Project
 
-## 📌 Overview
+##  Overview
 This project analyzes whether workplace conditions can predict if a tech employee will seek mental health treatment.
 
 The goal is to combine statistical analysis and machine learning to identify key factors influencing mental health decisions.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To predict whether an individual seeks mental health treatment based on:
 - Workplace environment
 - Personal background
@@ -17,14 +17,14 @@ To predict whether an individual seeks mental health treatment based on:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Source: OSMI Mental Health in Tech Survey (Kaggle)
 - Total responses: 1,259
 - Features: 27 (demographic + workplace-related)
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 - Removed missing values
 - Cleaned inconsistent entries (e.g., gender formatting)
 - Selected important features:
@@ -36,7 +36,7 @@ To predict whether an individual seeks mental health treatment based on:
 
 ---
 
-## 📈 Exploratory Data Analysis
+##  Exploratory Data Analysis
 Key insights:
 - Treatment distribution is relatively balanced
 - Most respondents are aged 25–35
@@ -47,14 +47,14 @@ Key insights:
 
 ---
 
-## 📊 Statistical Analysis
+##  Statistical Analysis
 - Chi-square test showed a significant relationship between workplace factors and treatment
 - Cramér’s V indicated moderate association strength
 - Confirms that key variables influence treatment decisions
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 Two models were used:
 
 ### 1. Logistic Regression
@@ -69,7 +69,7 @@ Two models were used:
 
 ---
 
-## 🔍 Feature Importance
+##  Feature Importance
 Top predictors:
 - Family history (strongest predictor)
 - Work interference
@@ -77,7 +77,7 @@ Top predictors:
 
 ---
 
-## 📌 Key Findings
+##  Key Findings
 - Family history is the most important factor
 - Workplace conditions significantly impact mental health decisions
 - Machine learning models confirm patterns found in statistical analysis
@@ -85,7 +85,7 @@ Top predictors:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Data is self-reported (possible bias)
 - Dataset mainly represents tech workers
 - Results may not generalize to other industries
@@ -93,12 +93,12 @@ Top predictors:
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 Both statistical analysis and machine learning show that workplace conditions and personal background strongly influence mental health treatment behavior.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Use more diverse datasets
 - Apply advanced models (e.g., XGBoost, Neural Networks)
 - Include real-time or longitudinal data
@@ -107,14 +107,14 @@ Both statistical analysis and machine learning show that workplace conditions an
 
 ## 🔗 Project Links
 
-### 📓 Colab Notebook
+###  Colab Notebook
 https://colab.research.google.com/drive/1BoBpiduhuc3U4U_LzN2RDk-oPANnB99Q?usp=sharing
 
-### 📊 Presentation Slides
+###  Presentation Slides
 https://canva.link/5ue8gdtobrplndv
 
-### 🎥 Presentation Video
-(Paste your video link here after uploading)
+###  Presentation Video
+will update this shortly.
 
 ---
 
