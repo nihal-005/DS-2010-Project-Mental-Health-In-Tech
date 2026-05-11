@@ -116,6 +116,7 @@ https://canva.link/5ue8gdtobrplndv
 ###  Presentation Video
 will update this shortly.
 
+I have uploaded the PDF version of my slides and my colab notebook for the convenience.
 ---
 
 ## 👤 Author
