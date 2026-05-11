@@ -114,7 +114,7 @@ https://colab.research.google.com/drive/1BoBpiduhuc3U4U_LzN2RDk-oPANnB99Q?usp=sh
 https://canva.link/5ue8gdtobrplndv
 
 ###  Presentation Video
-will update this shortly.
+https://youtu.be/dNL0y_f3fYw 
 
 I have uploaded the PDF version of my slides and my colab notebook for the convenience.
 ---
